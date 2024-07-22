@@ -92,7 +92,7 @@ html{
 
 #home::before { 
     content: "";
-    background: url('/Iphonewebsite/cssImages/large.mp4');
+    background: url('/Iphonewebsite/cssImages/iphone image.jpg');
     position: absolute;
     height: 700px;
     top: 0px;
